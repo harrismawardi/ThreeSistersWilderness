@@ -1,0 +1,15 @@
+.center-img{
+    display:block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width:85%
+}
+.text{
+    margin-left: 7.5%;
+    margin-right: 7.5%
+}
+.box{
+    display: flex;
+    flex-wrap:wrap
+}
