@@ -11,5 +11,9 @@
 }
 .box{
     display: flex;
-    flex-wrap:wrap
+    flex-wrap:wrap;
+    column-count: 2;
+}
+.h_text{
+    display: inline-block;
 }
